@@ -7,6 +7,14 @@ print(True or False)
 print(True or True)
 print(False or False)
 print(not 3 > 2)
+# and 找假
+# or 找真
+# 短路运算
+print("a" and "b")
+print("" and "b")
+print("a" or "b")
+print("" or "b")
+
 a = 9
 print(a//2)
 print('\u4e2d\u6587')
