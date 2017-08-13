@@ -7,6 +7,7 @@ print(True or False)
 print(True or True)
 print(False or False)
 print(not 3 > 2)
+print(3/2)
 # and 找假
 # or 找真
 # 短路运算
@@ -17,7 +18,7 @@ print("" or "b")
 
 a = 9
 print(a//2)
-print('\u4e2d\u6587')
+# print('\u4e2d\u6587')
 b = "flyingAir"
 print(b.encode("utf-8"))
 print("%s+%d" % ("jay", 100))
